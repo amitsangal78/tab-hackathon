@@ -214,4 +214,4 @@ curl -X POST http://localhost:3000/api/analyze-combined \
 
 1. **Gemini API Error**: Check your `GEMINI_API_KEY` is valid
 2. **GitHub API Error**: Ensure your `GITHUB_TOKEN` has appropriate permissions
-3. **Network Issues**: Check your internet connection and firewall settings 
+3. **Network Issues**: Check your internet connection and firewall settings
